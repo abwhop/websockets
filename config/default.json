@@ -1,0 +1,5 @@
+{"redis":
+  {
+    "url": "redis://x:UEDBPRATBHSOLANK@aws-us-east-1-portal.16.dblayer.com:15607"
+  }
+}
